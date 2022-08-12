@@ -14,7 +14,7 @@
 //      valid_o: 1 tick if the result is valid
 //      result_o: result.
 //
-// Notice
+//    Notice
 //      this module has 2 cycle latency
 
 module acc_core
@@ -76,6 +76,6 @@ module acc_core
     end */
 
     assign result_o = save;
-    assign valid_o = valid;
+    assign   valid_o = valid;
 
 endmodule
