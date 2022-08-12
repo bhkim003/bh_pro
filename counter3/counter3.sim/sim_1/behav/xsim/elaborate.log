@@ -1,0 +1,22 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot TB_Counter_TOP_behav xil_defaultlib.TB_Counter_TOP xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter_TOP.v" Line 1. Module Counter_TOP doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter.v" Line 1. Module Counter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter_fsm.v" Line 1. Module Counter_fsm doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter_TOP.v" Line 1. Module Counter_TOP doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter.v" Line 1. Module Counter doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter_fsm.v" Line 1. Module Counter_fsm doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.Counter
+Compiling module xil_defaultlib.Counter_fsm
+Compiling module xil_defaultlib.Counter_TOP
+Compiling module xil_defaultlib.TB_Counter_TOP
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot TB_Counter_TOP_behav

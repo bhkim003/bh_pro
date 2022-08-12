@@ -1,0 +1,9 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/bh pro/counter3/counter3.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter.v,1659419328,verilog,,C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter_TOP.v,,Counter,,,,,,,,
+C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter_TOP.v,1659422228,verilog,,C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter_fsm.v,,Counter_TOP,,,,,,,,
+C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/counter_fsm.v,1659509234,verilog,,C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/tb_counter_TOP.v,,Counter_fsm,,,,,,,,
+C:/bh pro/counter3/counter3.srcs/sources_1/imports/counter_fsm/tb_counter_TOP.v,1659509655,verilog,,,,TB_Counter_TOP,,,,,,,,

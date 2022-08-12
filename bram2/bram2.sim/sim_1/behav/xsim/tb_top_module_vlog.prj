@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../bram2.srcs/sources_1/imports/practice/top_module.v" \
+"../../../../bram2.srcs/sources_1/imports/practice/true_dpbram.v" \
+"../../../../bram2.srcs/sources_1/imports/practice/tb_top_module.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

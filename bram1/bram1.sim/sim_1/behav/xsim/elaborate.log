@@ -1,0 +1,17 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2022.1/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_top_module_behav xil_defaultlib.tb_top_module xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/bh pro/bram1/bram1.srcs/sources_1/imports/practice/top_module.v" Line 1. Module top_module(DATA_WIDTH=32,ADDR_WIDTH=8,MEM_DEPTH=512) doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "C:/bh pro/bram1/bram1.srcs/sources_1/imports/practice/top_module.v" Line 1. Module top_module(DATA_WIDTH=32,ADDR_WIDTH=8,MEM_DEPTH=512) doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.true_dpbram(DWIDTH=32,AWIDTH=8,M...
+Compiling module xil_defaultlib.top_module(DATA_WIDTH=32,ADDR_WI...
+Compiling module xil_defaultlib.tb_top_module
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_top_module_behav

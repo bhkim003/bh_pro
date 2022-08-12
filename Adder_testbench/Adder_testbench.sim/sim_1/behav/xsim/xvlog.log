@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/bh pro/Adder_testbench/Adder_testbench.srcs/sources_1/imports/4bitRCA/4_bitfulladder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_bitfulladder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/bh pro/Adder_testbench/Adder_testbench.srcs/sources_1/imports/4bitRCA/FullAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/bh pro/Adder_testbench/Adder_testbench.srcs/sim_1/imports/4bitRCA/tb_4bit_FullAdder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_4bitfulladder
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/bh pro/Adder_testbench/Adder_testbench.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

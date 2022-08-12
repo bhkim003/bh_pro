@@ -1,0 +1,8 @@
+0.7
+2020.2
+Apr 18 2022
+16:05:34
+C:/bh pro/bram2/bram2.sim/sim_1/behav/xsim/glbl.v,1649976174,verilog,,,,glbl,,,,,,,,
+C:/bh pro/bram2/bram2.srcs/sources_1/imports/practice/tb_top_module.v,1659515562,verilog,,,,tb_top_module,,,,,,,,
+C:/bh pro/bram2/bram2.srcs/sources_1/imports/practice/top_module.v,1659513757,verilog,,C:/bh pro/bram2/bram2.srcs/sources_1/imports/practice/true_dpbram.v,,top_module,,,,,,,,
+C:/bh pro/bram2/bram2.srcs/sources_1/imports/practice/true_dpbram.v,1658077078,verilog,,C:/bh pro/bram2/bram2.srcs/sources_1/imports/practice/tb_top_module.v,,true_dpbram,,,,,,,,

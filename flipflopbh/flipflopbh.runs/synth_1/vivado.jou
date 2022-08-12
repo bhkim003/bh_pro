@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Wed Jul 13 21:00:37 2022
+# Process ID: 4232
+# Current directory: C:/bh pro/flipflopbh/flipflopbh.runs/synth_1
+# Command line: vivado.exe -log JKFF.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source JKFF.tcl
+# Log file: C:/bh pro/flipflopbh/flipflopbh.runs/synth_1/JKFF.vds
+# Journal file: C:/bh pro/flipflopbh/flipflopbh.runs/synth_1\vivado.jou
+# Running On: DESKTOP-MAHDHNU, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 8494 MB
+#-----------------------------------------------------------
+source JKFF.tcl -notrace
