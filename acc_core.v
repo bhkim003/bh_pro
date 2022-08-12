@@ -73,9 +73,9 @@ module acc_core
         end else begin 
             
         end
-    end*/
+    end */
 
     assign result_o = save;
     assign valid_o = valid;
-  
+
 endmodule
