@@ -2,7 +2,8 @@
 `define DELTA 2
 
 
-
+  
+  
 module tb_core;
     parameter IN_DATA_WIDTH = 8; // 들어오는 건 한 칸 8비트
     parameter DWIDTH = 16; // 나가는 건 한 칸에  16비트
